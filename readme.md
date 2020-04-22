@@ -7,3 +7,5 @@ Detail.io virtual card.
 ```shell
 npx derail
 ```
+
+Inspired by [bnb/bitandbang](https://github.com/bnb/bitandbang)
