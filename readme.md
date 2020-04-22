@@ -1,6 +1,6 @@
 # derail card
 
-Detail.io virtual card.
+derail projects virtual card.
 
 ## Usage
 
