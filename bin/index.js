@@ -12,7 +12,6 @@ if (args[0] == "projects") {
 } else if (args[0] == "cak" || args[0] == "card") {
   cak();
 } else {
-  cak();
   displayProjects();
 }
 

@@ -1,13 +1,13 @@
 {
   "name": "derail",
-  "version": "1.0.2",
-  "description": "Derail.io information",
+  "version": "1.0.3",
+  "description": "derail projects virtual card",
   "main": "./bin/index.js",
   "bin": {
     "derail": "./bin/index.js"
   },
   "scripts": {
-    "build": "node ./bin/index.js",
+    "build": "node ./bin/index.js $*",
     "dev": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
